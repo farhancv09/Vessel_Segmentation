@@ -36,7 +36,8 @@ Inference is done using sliding window method.
 python Inference.py
 
 ```
-# Results
+# Results 
+Trained Model: See [Trained Model](https://github.com/farhancv09/Vessel_Segmentation/blob/main/trained_model/models.txt).
 ## Quantitaive
 ![Comparison Table](./figures/Comparison.png)
 ## Quantitative
