@@ -4,6 +4,7 @@ This repository contains codes for vessel segmentation for MRA images and can be
 
 ## Dataset: https://public.kitware.com/Wiki/TubeTK/Data
 
-##Preprocessing
+## Preprocessing
+
 Proprocessing is done using the repository: https://github.com/quqixun/BrainPrep
 ![Vessel_Segmentation_Preprocessing](./figures/preprocessing.png)
