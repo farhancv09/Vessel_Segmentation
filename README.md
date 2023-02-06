@@ -36,9 +36,9 @@ Inference is done using sliding window method.
 python Inference.py
 
 ```
-## Results
-# Quantitaive
+# Results
+## Quantitaive
 ![Comparison Table](./figures/Comparison.png)
-# Quantitative
+## Quantitative
 ![Comparison Table](./figures/Comparison_table.png)
 
