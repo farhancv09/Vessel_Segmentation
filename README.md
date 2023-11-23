@@ -1,8 +1,7 @@
 # Vessel Segmentation
 This repository contains codes for vessel segmentation for MRA images and can be applied to other 3D datasets.
 ## Paper Title: 
-CV-Attention UNet: Attention-based UNet for 3D Cerebrovascular Segmentation of Enhanced TOF-MRA Images
-Paper Link: https://arxiv.org/abs/2311.10224
+CV-Attention UNet: Attention-based UNet for 3D Cerebrovascular Segmentation of Enhanced TOF-MRA Images(https://arxiv.org/abs/2311.10224)
 
 ## Dataset: https://public.kitware.com/Wiki/TubeTK/Data
 
