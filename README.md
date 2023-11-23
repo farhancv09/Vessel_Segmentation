@@ -43,3 +43,13 @@ Trained Model: See [Trained Model](https://github.com/farhancv09/Vessel_Segmenta
 ## Quantitative
 ![Comparison Table](./figures/Comparison_table.png)
 
+## Citation
+If this code or some part of it is useful for your research, please consider citing following paper:
+```angular2html
+@article{abbas2023cv,
+  title={CV-Attention UNet: Attention-based UNet for 3D Cerebrovascular Segmentation of Enhanced TOF-MRA Images},
+  author={Abbas, Syed Farhan and Duc, Nguyen Thanh and Song, Yoonguu and Kim, Kyungwon and Lee, Boreom},
+  journal={arXiv preprint arXiv:2311.10224},
+  year={2023}
+}
+
