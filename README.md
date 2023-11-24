@@ -39,7 +39,7 @@ python Inference.py
 ```
 # Results 
 Trained Model: See [Trained Model](https://github.com/farhancv09/Vessel_Segmentation/blob/main/trained_model/models.txt).
-## Quantitaive
+## Qualitative
 ![Comparison Table](./figures/Comparison.png)
 ## Quantitative
 ![Comparison Table](./figures/Comparison_table.png)
